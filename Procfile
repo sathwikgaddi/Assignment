@@ -1,1 +1,1 @@
-web: gunicorn assignmenty.wsgi
+web: gunicorn Assignment.wsgi
