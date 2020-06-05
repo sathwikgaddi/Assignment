@@ -1,7 +1,7 @@
 from rest_framework import serializers
 
 from main import models
-#from models import Activity_peroid
+
 
 class UserSerializer(serializers.ModelSerializer):
 
