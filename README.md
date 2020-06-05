@@ -1,4 +1,4 @@
-###Overview
+##Overview
 
 Two models User and ActivityPeriod models are created
 
@@ -9,7 +9,7 @@ An api is written to serve the data in the given json format
 
 
 
-###Installations required
+##Installations required
 
 Install django
 
@@ -31,7 +31,7 @@ Install django-populate
 
 `$pip install django-populate`
 
-###Custom management command
+##Custom management command
 
 Run  `$ python manage.py populateUsers` where populateUsers is a custom command which populates the data into the database.
 Faker is used to get dummy data
